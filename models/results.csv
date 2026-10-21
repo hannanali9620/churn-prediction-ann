@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1,ROC-AUC
+Logistic Regression,0.807,0.66,0.561,0.607,0.842
+Random Forest,0.79,0.629,0.508,0.562,0.826
+XGBoost,0.799,0.651,0.524,0.581,0.844
+ANN (PyTorch),0.731,0.496,0.834,0.622,0.845
